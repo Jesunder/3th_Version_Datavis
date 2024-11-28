@@ -1,6 +1,54 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url("https://use.typekit.net/swn5gvs.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Anek+Telugu:wght@100..800&family=Epilogue:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+em {
+  font-family: "Neue Haas Grotesk", sans-serif;
+  font-size: 16px; /* Change this value to make the font larger */
+
+}
+
+p {
+  font-family: "Neue Haas Grotesk", sans-serif;
+  font-size: 17px; /* Change this value to make the font larger */
+
+}
+
+body {
+  font-family: "Afacad Flux", sans-serif;
+}
+
+h1 {
+  font-family: "Afacad Flux", sans-serif;
+  letter-spacing: 0,5px; /* Adjust this value to increase/decrease space between letters */
+  font-size: 44px; /* Adjust this value to increase/decrease the size of the text */
+  line-height: 1.2;
+  color: rgb(216, 117, 71);
+
+}
+
+h2 {
+  font-family: "Afacad Flux", sans-serif; 
+  letter-spacing: 0px; /* Adjust this value to increase/decrease space between letters */
+  font-size: 26px; /* Adjust this value to increase/decrease the size of the text */
+  margin: 16px 0; /* 40 pixels above and below */
+  font-weight: bold; /* or a numeric value like 700 or 900 */
+  color: rgb(216, 117, 71);
+
+
+}
+
+h3 {
+  font-family: "Afacad Flux", sans-serif; 
+  letter-spacing: 0px; /* Adjust this value to increase/decrease space between letters */
+  font-size: 16px; /* Adjust this value to increase/decrease the size of the text */
+  margin: 20px 0px 0px; /* 20 pixels above, 10 pixels below */
+  font-weight: 700; /* or a numeric value like 700 or 900 */
+}
 
 .montserrat-bold {
   font-family: "Montserrat", sans-serif;

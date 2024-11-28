@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example - blog entry 1
+title: Test1
 date: 2024-11-15T14:18:09.679Z
 tags:
   - Tag 1

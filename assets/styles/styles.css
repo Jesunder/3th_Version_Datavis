@@ -18,3 +18,16 @@ hr{
 ul, li {
     list-style: none;
 }
+
+.modeling-process {
+    margin: 35px;
+    padding: 20px;
+    border: 1px solid #a3a3a3;
+    border-radius: 5px;
+}
+
+.container_layout{
+    max-width: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+}

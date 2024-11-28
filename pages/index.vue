@@ -106,7 +106,7 @@ onMounted(async () => {
         ></div>
 
         <!-- Black overlay for opacity -->
-        <div class="absolute inset-0 bg-black opacity-30"></div>
+        <div class="absolute inset-0 bg-black opacity-10"></div>
 
         <!-- Content above the background -->
         <div class="relative z-10 pr-5">
@@ -114,29 +114,29 @@ onMounted(async () => {
         </div>
 
         <!-- Info section with typewriter effect -->
-        <div class="info flex flex-col items-center justify-center h-screen relative">
+        <div class="flex flex-col items-center justify-center h-screen absolute right-40">
           <div class="container text-left p-1 lg:p-20">
             <div
-              class="container opacity-80 animate-fade animate-once animate-delay-[100ms] text-white"
+              class="container opacity-80 animate-fade animate-once animate-delay-[700ms] text-black"
             >
               <!-- Title -->
               <div class="relative">
-                <div class="blur-text text-6xl font-bold">{{ displayedTitle }}</div>
-                <div class="text-6xl font-bold border-r-4 border-white pr-2 animate-blink">
+                <!-- <div class="blur-text text-6xl font-bold text-black">{{ displayedTitle }}</div>-->
+                <div class="text-6xl font-bold border-r-4 border-white pr-2 animate-blink text-black">
                   {{ displayedTitle }}
                 </div>
               </div>
 
               <!-- Subtitle -->
               <div class="relative mt-4">
-                <div class="blur-text text-2xl font-semibold">{{ displayedSubtitle }}</div>
-                <div class="text-2xl font-semibold">{{ displayedSubtitle }}</div>
+                <!--<div class="blur-text text-2xl font-semibold text-black">{{ displayedSubtitle }}</div>-->
+                <div class="text-2xl font-semibold text-black">{{ displayedSubtitle }}</div>
               </div>
 
               <!-- Copyright -->
               <div class="relative mt-4">
-                <div class="blur-text font-light">{{ displayedCopyright }}</div>
-                <div class="font-light">{{ displayedCopyright }}</div>
+                <!--<div class="blur-text font-light text-black">{{ displayedCopyright }}</div>-->
+                <div class="font-light text-black">{{ displayedCopyright }}</div>
               </div>
             </div>
           </div>
@@ -153,12 +153,12 @@ onMounted(async () => {
     border-color: transparent;
   }
   50% {
-    border-color: white;
+    border-color: rgb(0, 0, 0);
   }
 }
 
 .animate-blink {
-  animation: blink 0.7s step-end infinite;
+  animation: blink 1.4s step-end infinite;
 }
 
 /* Blurred text styling */
