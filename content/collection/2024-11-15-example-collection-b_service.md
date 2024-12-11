@@ -53,8 +53,8 @@ Let’s work together to transform your ideas into impactful visuals that drive 
 ---
 
 
-# Workplace Testimonials: _(Example)_
-<br>
+## Workplace Testimonials: 
+_(Example)_
 
 ### _Ramdesign_*
 “Hardworking and dedicated, Erik consistently delivered high-quality work under tight deadlines. His design skills, particularly in 3D modeling, were exceptional.”

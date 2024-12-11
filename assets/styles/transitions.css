@@ -7,3 +7,15 @@
   opacity: 0;
   filter: fade(1rem);
 }
+
+
+.background-image-container img {
+  filter: blur(15px); /* Set initial blur */
+  object-fit: cover;
+  transition: filter 5s ease; /* Transition the blur effect over 3 seconds */
+}
+
+.background-image-container img.loaded {
+  filter: blur(0); /* Remove blur once the image has loaded */
+}
+

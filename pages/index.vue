@@ -114,7 +114,7 @@ onMounted(async () => {
         </div>
 
         <!-- Info section with typewriter effect -->
-        <div class="flex flex-col items-center justify-center h-screen absolute right-40">
+        <div class="flex flex-col items-center justify-center h-screen absolute right-60">
           <div class="container text-left p-1 lg:p-20">
             <div
               class="container opacity-80 animate-fade animate-once animate-delay-[700ms] text-black"
