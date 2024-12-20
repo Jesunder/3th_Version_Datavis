@@ -1,28 +1,29 @@
 ---
 title: 3D Modeling
-date: 2024-11-15T21:56:56.704Z
-description: 3D modeling is the art and science of creating three-dimensional representations of objects using specialized software.
-thumbnail: /img/Ex1.jpg
-tags:
-  - Tag 1
-numbernavigation: 10
-layout: layout2
-mainincluded: true
+subtitle: Introduction to my hobby
+reftags:
+  - "#Modelling"
 imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - /img/Ex2.jpg
-    - /img/Ex3.jpg
-    - /img/Ex4.jpg
-    - /img/Ex5.jpg
-    - /img/Ex7.jpg
-    - /img/Ex9.jpg
+    - /img/Exmp2.jpg
+    - /img/Exmp3.jpg
+    - /img/Exmp4.jpg
+    - /img/Exmp5.jpg
+thumbnail: /img/Exmp1.jpg
+date: 2024-12-12T21:56:56.704Z
+layout: layout2
+mainincluded: true
+tags:
+  - Modeling
 collectionincluded: true
+numbernavigation: 10
+description: Feel free to Contact me
 ---
 <br>
 <br>
-<br>
+
 
 ## What is 3D Modeling?
 
@@ -70,25 +71,3 @@ The time it takes to complete a 3D model varies significantly based on its compl
 Throughout my journey in 3D modeling, I've come across many talented artists whose work inspires me. Under this post, I'll share examples of some of these artists, highlighting their unique styles and contributions to the world of 3D art. Stay tuned for a deeper dive into their amazing creations!
 
 <br>
-
-### Creators: 
-
-_Konstantin Gerhald_ - <br>
-
-<span style="color: #155e75;">https://www.artstation.com/artwork/03r5LY
-<br>
-
-_Lukas Walzer_ -<br>
-
-<span style="color: #155e75;">https://www.artstation.com/artwork/Gamr5W
-<br>
-
-_Zachary L_ -<br>
-
-<span style="color: #155e75;">https://www.artstation.com/zachary_l
-<br>
-
-
-<br>
-
----

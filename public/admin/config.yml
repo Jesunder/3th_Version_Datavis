@@ -55,7 +55,7 @@ collections:
       - { label: 'Layout', 
           name: 'layoutpage', 
           widget: 'select', 
-          options: ["layout1", "layout2", "layout3", "layout4", "layout5"], 
+          options: ["layout1", "layout2", "layout3", "layout4", "layout5", "layout6"], 
           required: false, default: ["layout1"],
           hint: 'Choose a layout for this item.'
           }

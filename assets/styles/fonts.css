@@ -27,9 +27,10 @@ h1 {
   letter-spacing: 0,5px; /* Adjust this value to increase/decrease space between letters */
   font-size: 44px; /* Adjust this value to increase/decrease the size of the text */
   line-height: 1.2;
-  color: rgb(216, 117, 71);
+  color: rgb(255, 170, 0);
 
 }
+
 
 h2 {
   font-family: "Afacad Flux", sans-serif; 
@@ -37,8 +38,6 @@ h2 {
   font-size: 26px; /* Adjust this value to increase/decrease the size of the text */
   margin: 16px 0; /* 40 pixels above and below */
   font-weight: bold; /* or a numeric value like 700 or 900 */
-  color: rgb(216, 117, 71);
-
 
 }
 

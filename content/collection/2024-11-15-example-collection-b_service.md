@@ -1,22 +1,28 @@
 ---
 title: Services
-date: 2024-11-15T21:56:56.704Z
-description: In today’s competitive landscape, a strong visual identity is crucial for standing out.
-thumbnail: /img/fig6.jpg
-tags:
-  - Tag 1
-numbernavigation: 10
-layout: layout2
-mainincluded: true
+reftags:
+  - "#Miscellaneous"
 imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - /img/faba.jpg
-    - /img/devlier.jpg
-    - /img/fig7.jpg
-    - /img/fig6.jpg
+    - /img/Fig1.jpg
+    - /img/Fig2.jpg
+    - /img/Fig6.jpg
+    - /img/Fig7.jpg
+    - /img/Fig3.jpg
+    - /img/Fig4.jpg
+    - /img/Fig5.jpg
+thumbnail: /img/services.png
+date: 2024-11-15T21:56:56.704Z
+numbernavigation: 10
+layout: layout4
+mainincluded: true
+tags:
+  - Tag 1
 collectionincluded: true
+description: In today’s competitive landscape, a strong visual identity is
+  crucial for standing out.
 ---
 <br>
 <br>

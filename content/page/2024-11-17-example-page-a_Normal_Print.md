@@ -2,18 +2,17 @@
 layout: default
 title: PrintDesign
 tags:
-  - Design
+  - "#Design"
+  - "#LatestWork"
 imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - /img/fig1.jpg
-    - /img/fig2.jpg
-    - /img/fig3.jpg
-    - /img/fig4.jpg
-    - /img/fig5.jpg
+    - /img/DataVis.png
+    - /img/Typography.jpg
+    - /img/Onderkruipsels.jpg
   gallerytitle: ""
-thumbnail: /img/fig1.jpg
+thumbnail: /img/Onderkruipsels.jpg
 date: 2024-11-17T14:29:57.955Z
 numbernavigation: 1
 layoutpage: layout2

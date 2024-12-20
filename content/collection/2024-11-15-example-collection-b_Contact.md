@@ -1,20 +1,22 @@
 ---
 title: Contact
-date: 2024-11-15T21:56:56.704Z
-description: Feel free to Contact me
-thumbnail: /img/business.jpeg
-tags:
-  - Tag 1
-numbernavigation: 10
-layout: layout1
-mainincluded: true
+reftags:
+  - "#Miscellaneous"
 imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
     - /img/Maps.jpg
     - /img/business.jpeg
+thumbnail: /img/business.jpeg
+date: 2024-11-15T21:56:56.704Z
+numbernavigation: 10
+layout: layout1
+mainincluded: true
+tags:
+  - Tag 1
 collectionincluded: true
+description: Feel free to Contact me
 ---
 <br>
 <br>

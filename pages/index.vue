@@ -122,7 +122,7 @@ onMounted(async () => {
               <!-- Title -->
               <div class="relative">
                 <!-- <div class="blur-text text-6xl font-bold text-black">{{ displayedTitle }}</div>-->
-                <div class="text-6xl font-bold border-r-4 border-white pr-2 animate-blink text-black">
+                <div class="text-6xl font-bold border-r-4 border-white pr-2 animate-blink text-amber-500">
                   {{ displayedTitle }}
                 </div>
               </div>

@@ -16,6 +16,7 @@ import Layout2 from '~/components/layouts/Layout2.vue';
 import Layout3 from '~/components/layouts/Layout3.vue';
 import Layout4 from '~/components/layouts/Layout4.vue';
 import Layout5 from '~/components/layouts/Layout5.vue';
+import Layout6 from '~/components/layouts/Layout6.vue';
 
 // Function to get the corresponding layout component
 function getLayoutComponent(layout) {
@@ -29,7 +30,9 @@ function getLayoutComponent(layout) {
     case 'layout4':
       return Layout4;
     case 'layout5':
-      return Layout5;    
+      return Layout5;
+    case 'layout6':
+      return Layout6;      
     default:
       return null;
   }

@@ -48,7 +48,7 @@
         >
           <div class="container p-4">
             <div>
-              <h1 class="text-white text-4xl md:text-6xl lg:text-8xl font-bold animate__animated animate__fadeInRight">{{ data.title }}</h1>
+              <h1 class="text-amber-400 text-4xl md:text-6xl lg:text-8xl font-bold animate__animated animate__fadeInRight">{{ data.title }}</h1>
               <h1 v-if="data.subtitle" class="text-white opacity-80 pt-3 text-xl md:text-2xl lg:text-3xl font-bold pb-10 animate__animated animate__fadeIn animate__delay-1s">{{ data.subtitle }}</h1>
             </div>
             

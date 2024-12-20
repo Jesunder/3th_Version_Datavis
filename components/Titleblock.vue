@@ -1,9 +1,9 @@
 <template>
     <div class="opacity-80 animate-fade animate-once animate-delay-[100ms]">
       <div
-      class="text-2xl font-bold">
+      class="text-4xl font-bold text-amber-500">
       {{ settings.site_title }}</div>
-      <div class="text-sm opacity-80">
+      <div class="text-base opacity-80 mb-10">
       {{ settings.site_subtitle }}
       </div>
     </div>

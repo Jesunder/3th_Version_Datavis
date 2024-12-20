@@ -3,12 +3,12 @@ layout: default
 title: My Biography
 subtitle: The Craft of Creation- A Designer's Evolution
 tags:
-  - Miscellaneous
+  - "#Miscellaneous"
 thumbnail: /img/MyStudio.jpeg
 date: 2024-11-15T14:18:09.679Z
-author: John Jones
+author: Erik Sergeev
 numbernavigation: 1
-layoutblog: layout2
+layoutblog: layout5
 promoted: 100
 ---
 <br>
