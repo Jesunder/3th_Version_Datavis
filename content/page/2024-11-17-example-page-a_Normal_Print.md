@@ -14,7 +14,7 @@ imagegallery:
   gallerytitle: ""
 thumbnail: /img/Onderkruipsels.jpg
 date: 2024-11-17T14:29:57.955Z
-numbernavigation: 1
+numbernavigation: 5
 layoutpage: layout2
 description: My Printdesigns
 promoted: "0"

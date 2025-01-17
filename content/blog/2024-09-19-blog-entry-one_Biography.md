@@ -4,7 +4,7 @@ title: My Biography
 subtitle: The Craft of Creation- A Designer's Evolution
 tags:
   - "#Miscellaneous"
-thumbnail: /img/MyStudio.jpeg
+thumbnail: /img/mybio2.png
 date: 2024-11-15T14:18:09.679Z
 author: Erik Sergeev
 numbernavigation: 1
@@ -13,6 +13,9 @@ promoted: 100
 ---
 <br>
 <br>
+
+## **Who am I**
+
 I’m Erik, a multi-disciplinary designer with a passion for creating compelling visual and functional experiences. 
 
 My skills range from mastering Adobe Creative Suite to programming and 3D modeling. I’ve completed several internships with Ramdesign and Triple Click Studio, where I honed my craft and gained hands-on experience in the design industry.
@@ -22,7 +25,7 @@ I focus on delivering strong results by continuously improving my skills and sta
 
 <br>
 
-**Skills/Expertise:**
+### **Skills/Expertise:**
 
 Adobe Creative Suite (Photoshop, Illustrator, etc.)<br>
 3D Modeling/Cinema 4D<br>
@@ -32,7 +35,7 @@ UI/UX Design<br>
 
 
 
-**Experience:**
+### **Experience:**
 
 Internships at Ramdesign and Triple Click Studio<br>
 Freelance work on various design and modeling projects<br>

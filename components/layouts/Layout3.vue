@@ -14,12 +14,12 @@
         @load="imageLoaded = true"
       />
       
-      <div v-if="!imageLoaded" class="absolute inset-0 flex items-center justify-center bg-black bg-opacity-75">
+      <div v-if="!imageLoaded" class="absolute inset-0 flex items-center justify-center bg-slate-900 bg-opacity-100">
         <div class="spinner"></div>
       </div>
 
       <div
-        class="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-100 animate-fade animate-once animate-delay-[500ms]"
+        class="absolute inset-0 flex flex-col items-center justify-center bg-slate-900 bg-opacity-100 animate-fade animate-once animate-delay-[500ms]"
         v-if="imageLoaded"
       >
         <div class="container p-4">

@@ -6,11 +6,13 @@ related_page:
 reftags:
   - "#WebDevelopment"
 imagegallery:
-  showgallery: false
+  showgallery: true
   carouselgrid: grid
   galleryImages:
     - /img/webthree.jpg
     - /img/webtwo.jpg
+    - /img/WebsiteErik.jpg
+    - /img/WebDog.jpg
   gallerytext: ""
 thumbnail: /img/Web.jpg
 date: 2024-12-12T12:58:59.910Z
@@ -28,6 +30,7 @@ description: >-
 
   — Jeffrey Zeldman
 ---
+
 ## What is it about?
 
 <div class="long-text-container">
@@ -41,6 +44,9 @@ This quote became the main attention of the design. We would also need to add Bi
 <br>
 <br>
 
+[**To view the prototype click on me**](https://xd.adobe.com/view/6a502f12-0d2c-4f77-88c1-57ae94be5f24-3f03/)
+
+<br>
 
 <div class="modeling-process_2">
 
@@ -59,4 +65,3 @@ A clearly defined series of various media showcasing the appropriate use of typo
 </div>
 
 <br>
-
